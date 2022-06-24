@@ -19,12 +19,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94760769082']
-global.premium = ['94760769082']
-global.ownernomer = '94760769082'
-global.ownername = 'LAKA SL'
-global.botname = 'LAKA SL Bot'
-global.footer = 'LAKA SL Bot.'
+global.owner = ['94763332698']
+global.premium = ['94763332698']
+global.ownernomer = '94763332698'
+global.ownername = 'NIKO SL'
+global.botname = 'NIKO SL Bot'
+global.footer = 'NIKO SL Bot.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'Sri Lanka'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
